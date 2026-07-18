@@ -2,7 +2,7 @@
 
 <img src="images/svg/header_en.svg" alt ="Mahan Rahmani"></img>
 
-<h1 align="center">Hello,👋 My name is <strong>Mahan Rahmani</strong></h1>
+<h1 align="center">Hello,👋 My name is <strong>Mahan Rahmani</strong> | <strong>ماهان رحمانی</strong> </h1>
 
 <p align="center">
   <a href="https://github.com/mhnrhmni?tab=followers">
